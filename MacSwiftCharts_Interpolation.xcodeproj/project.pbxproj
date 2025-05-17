@@ -95,7 +95,7 @@
 				};
 			};
 			buildConfigurationList = 334867202DD87A2A0074BEAF /* Build configuration list for PBXProject "MacSwiftCharts_Interpolation" */;
-			developmentRegion = ja;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
